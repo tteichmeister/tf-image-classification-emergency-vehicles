@@ -10,6 +10,7 @@ dependencies:
 - imageio==2.5.0
 - keras==2.2.4
 - python-chromedriver-binary
+- tensorboard
 - pip:
   - tensorflow-addons==0.5.2
   - imageio-ffmpeg==0.3.0
