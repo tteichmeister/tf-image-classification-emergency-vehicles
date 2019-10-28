@@ -1,7 +1,8 @@
 #custom
- images/
- snapshots/
- .vscode/
+images/
+snapshots/
+.vscode/
+cars.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
