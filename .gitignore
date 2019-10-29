@@ -1,5 +1,6 @@
 #custom
 images/
+logs*/
 snapshots/
 .vscode/
 cars.h5
@@ -109,4 +110,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
 
